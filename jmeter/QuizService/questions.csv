@@ -1,0 +1,6 @@
+questionTitle,option1,option2,option3,option4,rightAnswer,category
+"What is the capital of India?","Mumbai","New Delhi","Kolkata","Chennai","New Delhi","Geography"
+"Which language runs on JVM?","Python","Java","C#","Go","Java","Programming"
+"What does HTTP stand for?","HyperText Transfer Protocol","High Transfer Text Protocol","Hyperlink Transfer Protocol","Host Transfer Text Process","HyperText Transfer Protocol","Networking"
+"Which annotation marks a Spring REST controller?","@Controller","@RestController","@Service","@Repository","@RestController","Spring"
+"What is 2 + 2?","3","4","5","22","4","Math"

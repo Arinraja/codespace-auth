@@ -1,0 +1,29 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.sts4-cache/
+bin/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & runtime
+*.log
+*.tmp
+hs_err_pid*
+
+# Env / secrets
+.env
+*.local.properties
